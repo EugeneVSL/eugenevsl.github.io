@@ -11,7 +11,7 @@ export const Home = () => {
             <Header />
             <main className="inner cover">
                 <h2 className="">Welcome to Eugene's Corner.</h2>
- 				<h3 className="">A place for software developers and machine learning enthusiasts.</h3>
+ 				<h3 className="">A place for software developers infected with machine learning.</h3>
             </main>
             <Footer />
         </>
