@@ -1,7 +1,9 @@
 /*
  * Header
  */
- 
- .masthead {
-    margin-bottom: 2rem;
-  }
+h1 {
+  color: #212529;
+}
+.masthead {
+  margin-bottom: 2rem;
+}
